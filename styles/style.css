@@ -54,13 +54,6 @@ ol {
   flex-direction: column;
 }
 
-.result {
-  
-    
-    margin-bottom: 23px;
-}
-
-
 .search-form {
   display: flex;
   justify-content: space-between;
@@ -68,18 +61,16 @@ ol {
 }
 
 .content__details {
-  height: 554px;
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 18px;
-  
 }
 
 .content__list-container {
   display: flex;
   flex-direction: column;
-  height: 298px;
+  height: 302px;
   overflow-y: auto;
   gap: 30px;
   width: 399px;
@@ -122,7 +113,7 @@ ol {
 .search-form__fieldset-title {
   font-size: 18px;
   font-weight: 400;
-  line-height: 144%;
+  line-height: 159%;
 }
 
 .title {
@@ -131,7 +122,6 @@ ol {
   font-weight: 700;
   line-height: 94%;
   text-transform: uppercase;
-  
 }
 
 .content__accent {
@@ -192,7 +182,6 @@ ol {
   width: fit-content;
   cursor: pointer;
   gap: 5px;
-  
 }
 .search-form__textfield {
   font-family: "Fira Sans Condensed", sans-serif;
